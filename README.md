@@ -1,7 +1,7 @@
 ChosenAlternateStyles
 =====================
 
-An alternate stylesheet for the [Chosen jQuery dropdown plugin](https://github.com/harvesthq/chosen). 
+Alternate themes for the [Chosen jQuery dropdown plugin](https://github.com/harvesthq/chosen). 
 
 
 **Browser Default Theme** Styles them to look more like standard browser dropdowns.
